@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.teal,
         body: SafeArea(
           child: Column(
-            mainAxisAlignment : MainAxisAlignment.center,
+            mainAxisAlignment: MainAxisAlignment.center,
             children: [
               CircleAvatar(
                 radius: 60.0,
@@ -42,7 +42,6 @@ class MyApp extends StatelessWidget {
                 width: 200.0,
                 child: Divider(
                   color: Colors.teal.shade100,
-
                 ),
               ),
               Padding(
@@ -82,7 +81,7 @@ class MyApp extends StatelessWidget {
                       size: 28.0,
                     ),
                     title: Text(
-                      'rdarshit111@gmail.com',
+                      'droke112001@gmail.com',
                       style: TextStyle(
                         fontSize: 24.0,
                         fontWeight: FontWeight.bold,
